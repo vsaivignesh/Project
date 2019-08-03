@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LibSys</string>
+    <string name="submit">Submit</string>
+    <string name="enter_id">Enter ID</string>
+    <string name="enter_book_name">Enter Book Name</string>
+    <string name="enter_author_name">Enter Author Name</string>
+    <string name="enter_availability">Enter Availability</string>
+    <string name="adduseractivitylabel">Label</string>
+    <string name="add_book">Add Book</string>
+    <string name="lend_book">Lend Book</string>
+    <string name="receive_book">Receive Book</string>
+    <string name="enter_student_id">Enter Student ID</string>
+    <string name="confirm">Confirm</string>
+    <string name="check_profile">Check Profile</string>
+    <string name="search">Search</string>
+    <string name="search_book_name">Search Book Name</string>
+    <string name="go_back">Go Back</string>
+    <string name="go_home">Go Home</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="create_new_user">Create new User</string>
+    <string name="available">Available</string>
+</resources>
